@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>Latin1_General_CI_AS</Collation>
+  <ServerVersion>Sql2012</ServerVersion>
+  <ServerName>ESSW\MSSQLSERVER_2014</ServerName>
+  <DatabaseName>ADB_STARLAKS</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
